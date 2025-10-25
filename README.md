@@ -11,7 +11,7 @@ Follow these steps exactly to set up the GUI and the script.
 1.  **Clone the Original Repository:**
     First, you need to get the main `spyhunt` tool.
     ```bash
-    git clone [https://github.com/gotr00t0day/spyhunt](https://github.com/gotr00t0day/spyhunt)
+    git clone https://github.com/gotr00t0day/spyhunt.git
     ```
     This will create a folder named `spyhunt` containing `spyhunt.py` and other files.
 
